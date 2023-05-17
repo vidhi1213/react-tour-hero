@@ -1,0 +1,15 @@
+.search-result{
+    list-style: none;
+    li a {
+       border-bottom: 1px solid gray;
+       border-left: 1px solid gray;
+       border-right: 1px solid gray;
+       display: inline-block;
+       width: 100%;
+       max-width: 600px;
+       padding: .5rem;
+       box-sizing: border-box;
+       text-decoration: none;
+       color: black;
+   }
+}
